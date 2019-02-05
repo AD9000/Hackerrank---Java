@@ -3,7 +3,7 @@
 // Full Question: https://www.hackerrank.com/challenges/java-string-compare/problem
 
 import java.util.Scanner;
-public class Solution {
+public class CompareStrings {
 
     public static String getSmallestAndLargest(String s, int k) {
         String smallest = s;
@@ -29,3 +29,4 @@ public class Solution {
         
         return smallest + "\n" + largest;
     }
+}
