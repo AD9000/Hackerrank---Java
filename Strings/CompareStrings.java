@@ -1,6 +1,6 @@
 // Author: Atharv Damle
 // Compare Strings using compareTo method.
-// Full Question: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+// Full Question: https://www.hackerrank.com/challenges/java-string-compare/problem
 
 import java.util.Scanner;
 public class Solution {
