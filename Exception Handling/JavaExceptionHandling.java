@@ -1,6 +1,6 @@
 // Author: Atharv Damle
 // Create a class to calulate n^p and throw an error in case that n or p <= 0.
-// Full Question: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+// Full Question: https://www.hackerrank.com/challenges/java-exception-handling/problem
 
 class MyCalculator {
     long power (int n, int p) throws Exception
