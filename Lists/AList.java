@@ -2,7 +2,7 @@
 // To demonstrate using the List interface with the LinkedList Class.
 // The operations performed are just adding, removing and checking if it is empty, hence there is no need to use an ArrayList.
 // (Which uses an underlying array)
-// Full Question: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+// Full Question: https://www.hackerrank.com/challenges/java-list/problem
 
 import java.io.*;
 import java.util.*;
